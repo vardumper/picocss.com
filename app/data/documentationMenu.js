@@ -15,6 +15,8 @@ export const documentationMenu = [
       { label: "Theme generator", route: "/docs/theme-generator" },
       { label: "Sass", route: "/docs/sass" },
       { label: "Colors <mark>New</mark>", route: "/docs/colors" },
+      { label: "Usge Examples <mark>New</mark>", route: "/docs/usage-examples" },
+      { label: "Extend <mark>New</mark>", route: "/docs/extend" },
     ],
   },
   {

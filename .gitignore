@@ -14,3 +14,5 @@ app/styles/css/*
 # System files
 .DS_Store
 Thumbs.db
+yarn-error.log
+pnpm-lock.yaml
